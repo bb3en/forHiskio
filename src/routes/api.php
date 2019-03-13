@@ -18,6 +18,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::get('/calcfoot', 'HiskioController@calc');
-
+Route::post('/product', 'HiskioController@store');
 
 
