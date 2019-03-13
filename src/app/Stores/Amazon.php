@@ -8,7 +8,7 @@ class Amazon extends Store
 {
     public function respond()
     {
-        return "Amazon product is up";
+        return "Amazon product is on the market";
     }
     
 }

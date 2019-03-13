@@ -8,7 +8,7 @@ class Newegg extends Store
 {
     public function respond()
     {
-        return "Newegg product is up";
+        return "Newegg product is on the market";
     }
     
 }

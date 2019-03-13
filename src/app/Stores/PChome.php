@@ -8,7 +8,7 @@ class PChome extends Store
 {
     public function respond()
     {
-        return "PChome product is up";
+        return "PChome product is on the market";
     }
     
 }

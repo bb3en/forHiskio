@@ -8,7 +8,7 @@ class Yahoo extends Store
 {
     public function respond()
     {
-        return "Yahoo product is up";
+        return "Yahoo product is on the market";
     }
     
 }

@@ -6,4 +6,8 @@ use App\Stores;
 class Product 
 {
 
+    public publishPruduct ()
+    {
+
+    }
 }

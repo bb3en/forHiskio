@@ -8,7 +8,7 @@ class Ruten extends Store
 {
     public function respond()
     {
-        return "Ruten product is up";
+        return "Ruten product is on the market";
     }
     
 }
